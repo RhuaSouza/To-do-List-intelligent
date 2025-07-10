@@ -30,4 +30,3 @@ Um Aplicativo para gerenciamento de tarefas, com backend em Node.js + TypeScript
   - TypeScript
   - Prisma ORM
   - SQLite (banco de dados)
-# To-do-List-intelligent
